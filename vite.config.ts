@@ -34,5 +34,5 @@ export default defineConfig({
   assetsInclude: ['**/*.svg', '**/*.csv'],
   
   // Cấu hình base cho GitHub Pages
-  base: '/weblambo/', 
+  base: '/web_lambo/', 
 })
